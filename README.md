@@ -33,5 +33,6 @@ Time spent: 20 hours
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](walkthrough.gif)
+![Alt Text](https://media.giphy.com/media/l3mZ3fF9JSqVXAUSs/giphy.gif)
 
+![Alt Text](https://media.giphy.com/media/l0CLVrQpRLnWaRN16/giphy.gif)
